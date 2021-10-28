@@ -1,0 +1,32 @@
+body,body a{
+    border: 3px outset white;
+    font-family: "Solway";
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+nav a, img{
+font-size: 1.1rem;
+padding: 7px;
+margin: 1rem;
+    
+}
+ul{
+    margin: auto;
+}
+nav a{
+    margin: 0 1rem;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+nav a:hover{
+    text-decoration: underline;
+    color: #8E67E0;
+    padding: 3px;
+    margin: 3px;
+}
+img:hover {
+    filter: grayscale(80%);
+}
+
